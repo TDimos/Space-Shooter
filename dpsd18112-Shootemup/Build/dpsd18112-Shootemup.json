@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Space Shooter",
+"productVersion": "1.0",
+"dataUrl": "dpsd18112-Shootemup.data.unityweb",
+"wasmCodeUrl": "dpsd18112-Shootemup.wasm.code.unityweb",
+"wasmFrameworkUrl": "dpsd18112-Shootemup.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.32f1"
+}
